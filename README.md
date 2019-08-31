@@ -72,19 +72,4 @@ int main(void)
 │   ├── local.json             
 │   ├── production.json     
 │   └── test.json               
-├── data
-├── doc                      
-├── environment
-├── gulpfile.js
-├── locales
-├── logger-service.js           
-├── node_modules
-├── package.json
-├── app-service.js            
-├── static                    
-│   └── initjson
-│       └── config.js        
-├── test
-├── test-service.js
-└── tools
 
