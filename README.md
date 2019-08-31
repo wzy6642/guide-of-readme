@@ -63,38 +63,9 @@ int main(void)
 ```
 # 六、目录层级结构
 │  vehicle-web-0.0.1-SNAPSHOT.jar
-│  
 ├─car
-│  │  index.html
-│  │  
 │  ├─car_html
-│  │  ├─map
-│  │  │      AA00001_0.html
-│  │  │      
-│  │  ├─score
-│  │  │      AA00001_all_final.html
-│  │  │      AA00001_effi_all.html
-│  │  │      AA00001_safe_all.html
-│  │  │      AA00001_save_all.html
-│  │  │      
-│  │  └─wordcloud
-│  │          AA00001district.html
-│  │          AA00001heat.html
-│  │          AA00001street.html
-│  │          AA00002heat.html
-│  │          
 │  ├─css
-│  │      index.css
-│  │      
-│  ├─img
-│  │      0619.JPG
-│  │      logo.png
-│  │      place.JPG
-│  │      route.JPG
-│  │      
-│  └─js
-│          jquery-3.2.1.js
-│          
-└─config
-        application.properties             
+│  ├─img     
+└─config         
 
