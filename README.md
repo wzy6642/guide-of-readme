@@ -35,3 +35,16 @@ int main(void)
 	return a;
 }
 ```
+* 3、html代码高亮
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {{ "hello world"|cut:" " }}
+</body>
+</html>
+```
