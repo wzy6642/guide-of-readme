@@ -13,3 +13,11 @@
 |n|月份，1-9前面没有0前缀|1-12|
 # 三、内容强调
 1、*该部分为斜体*
+# 四、代码块高亮
+"""python
+def date_view(request):
+    context = {
+        "today": datetime.now()
+    }
+    return render(request, "date.html", context=context)
+"""
