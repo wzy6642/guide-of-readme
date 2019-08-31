@@ -14,10 +14,11 @@
 # 三、内容强调
 1、*该部分为斜体*
 # 四、代码块高亮
-"""python
+#'''
+python
 def date_view(request):
     context = {
         "today": datetime.now()
     }
     return render(request, "date.html", context=context)
-"""
+'''
