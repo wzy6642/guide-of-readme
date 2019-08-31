@@ -14,8 +14,7 @@
 # 三、内容强调
 1、*该部分为斜体*
 # 四、代码块高亮
-#'''
-python
+'''Python
 def date_view(request):
     context = {
         "today": datetime.now()
