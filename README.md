@@ -62,10 +62,5 @@ int main(void)
 </html>
 ```
 # 六、目录层级结构
-│  vehicle-web-0.0.1-SNAPSHOT.jar
-├─car
-│  ├─car_html
-│  ├─css
-│  ├─img     
-└─config         
+  
 
