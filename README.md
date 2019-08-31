@@ -17,10 +17,10 @@
 * 3、***加粗且倾斜***
 * 4、这是本句话`强调`的部分
 # 四、代码块高亮
-'''Python
+```Python
 def date_view(request):
     context = {
         "today": datetime.now()
     }
     return render(request, "date.html", context=context)
-'''
+```
