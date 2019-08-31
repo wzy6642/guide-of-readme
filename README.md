@@ -28,9 +28,10 @@ def date_view(request):
 * 2、C代码高亮
 ```c
 #include<stdio.h>
-int main(void):
+int main(void)
 {
-    int a = 10;
-    return a
+	int a = 10;
+	printf("a");
+	return a;
 }
 ```
